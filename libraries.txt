@@ -1,0 +1,2 @@
+# No additional third-party libraries required.
+# Uses the built-in ESP32 Arduino core.
