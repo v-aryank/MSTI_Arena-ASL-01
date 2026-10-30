@@ -1,4 +1,4 @@
-# ASL Challenge 01 — IoT Telemetry Node
+# MSTI Arena Challenge 01 — IoT Telemetry Node
 
 An ESP32-based IoT telemetry node developed for the **ALPHA SCIENCE LAB (ASL) National Arena — Challenge 01**.
 
